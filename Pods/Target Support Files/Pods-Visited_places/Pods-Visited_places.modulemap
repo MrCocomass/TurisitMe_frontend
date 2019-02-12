@@ -1,0 +1,6 @@
+framework module Pods_Visited_places {
+  umbrella header "Pods-Visited_places-umbrella.h"
+
+  export *
+  module * { export * }
+}
